@@ -61,5 +61,3 @@ LibraryManagementSystem/
 - **Persistence test:** Add a book, close the program, and run it again —
   the book should still be there (loaded from `data/books.txt`).
 
-## Screenshots
-_(Add screenshots of the running console menu here after you run it.)_
