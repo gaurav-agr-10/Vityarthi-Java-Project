@@ -1,4 +1,4 @@
-# Library Management System (Pure Java)
+# Library Management System 
 
 ## Overview
 A console-based Library Management System built in **pure Java** (no external
