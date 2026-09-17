@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 // MODULE 1: Book Management
 // This class handles adding, removing, searching and showing books.
-// It also handles adding and showing members.
+// It also handles adding and showing members..
 public class Library {
 
     private ArrayList<Book> bookList;

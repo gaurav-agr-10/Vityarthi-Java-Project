@@ -5,7 +5,7 @@ import java.util.ArrayList;
 
 // This class takes care of reading and writing data to text files.
 // We keep all file-related code here so that other classes don't need
-// to worry about how saving/loading actually works.
+// to worry about how saving/loading actually works..
 public class FileHandler {
 
     private static final String BOOKS_FILE = "data/books.txt";

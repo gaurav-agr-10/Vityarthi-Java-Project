@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // MODULE 3: Main Menu / User Interaction
 // This is the entry point of the program. It shows a menu to the user
-// and calls the right method depending on what the user chooses.
+// and calls the right method depending on what the user chooses..
 public class Main {
 
     public static void main(String[] args) {

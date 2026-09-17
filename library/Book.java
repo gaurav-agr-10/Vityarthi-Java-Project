@@ -1,7 +1,7 @@
 package library;
 
 // This class represents one Book in the library.
-// It just stores the details of a book and gives methods to read/change them.
+// It just stores the details of a book and gives methods to read/change them..
 public class Book {
 
     private int bookId;

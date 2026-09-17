@@ -1,6 +1,6 @@
 package library;
 
-// This class represents one Member (a person who borrows books).
+// This class represents one Member (a person who borrows books)..
 public class Member {
 
     private int memberId;

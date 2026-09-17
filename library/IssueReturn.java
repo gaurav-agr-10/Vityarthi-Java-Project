@@ -5,7 +5,7 @@ import java.time.temporal.ChronoUnit;
 
 // MODULE 2: Issue / Return Management
 // This class handles issuing a book to a member, returning it back,
-// and calculating fine if the book is returned late.
+// and calculating fine if the book is returned late..
 public class IssueReturn {
 
     private Library library;
